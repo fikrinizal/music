@@ -88,14 +88,6 @@ new Vue({
           url: "https://x.com/lulazbaee",
           favorited: true
         },
-        {
-          name: "Penjaga Hati",
-          artist: "Nadhif",
-          cover: "https://raw.githubusercontent.com/hafizmp/Music-Application/master/Assets/img/blackbear.jpeg",
-          source: "https://raw.githubusercontent.com/fikrinizal/music/blob/main/nadhif%20basalamah%20-%20penjaga%20hati%20(Official%20Lyric%20Video)%20-%20nadhif%20basalamah%20(youtube).mp3",
-          url: "https://x.com/lulazbaee",
-          favorited: true
-        }
       ],
       currentTrack: null,
       currentTrackIndex: 0,
