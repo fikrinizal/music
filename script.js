@@ -85,7 +85,7 @@ new Vue({
           artist: "Mix",
           cover: "https://raw.githubusercontent.com/hafizmp/Music-Application/master/Assets/img/blackbear.jpeg",
           source: "https://raw.githubusercontent.com/fikrinizal/fikrinizalul.github.io/main/img/About%20You%20x%20Birds%20Of%20A%20Feather%20TEM-PLE%20REMIX%20-%20temple-sovnd%20(youtube).mp3",
-          url: "https://youtu.be/gk2fKTitijs",
+          url: "https://x.com/lulazbaee",
           favorited: true
         },
       ],
