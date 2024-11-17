@@ -77,7 +77,7 @@ new Vue({
           artist: "The 1975",
           cover: "https://raw.githubusercontent.com/fikrinizal/fikrinizalul.github.io/main/img/WhatsApp_Image_2024-11-17_at_01.44.44_9dee328c-removebg-preview.png",
           source: "https://raw.githubusercontent.com/fikrinizal/fikrinizalul.github.io/main/img/The%201975%20%E2%80%93%20About%20You%20Live%20from%20Madison%20Square%20Garden%20_%20Amazon%20Music%20-%20The%201975%20(youtube).mp3",
-          url: "https://www.youtube.com/watch?v=28Lj4qt3lCc",
+          url: "https://x.com/lulazbaee",
           favorited: false
         },
         {
