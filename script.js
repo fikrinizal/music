@@ -75,7 +75,7 @@ new Vue({
         {
           name: "About You",
           artist: "The 1975",
-          cover: "https://raw.githubusercontent.com/fikrinizal/fikrinizalul.github.io/main/img/WhatsApp_Image_2024-11-17_at_01.44.44_9dee328c-removebg-preview.png",
+          cover: "https://raw.githubusercontent.com/fikrinizal/music/main/WhatsApp%20Image%202024-11-23%20at%2020.21.10_fde5de28.jpg",
           source: "https://raw.githubusercontent.com/fikrinizal/fikrinizalul.github.io/main/img/The%201975%20%E2%80%93%20About%20You%20Live%20from%20Madison%20Square%20Garden%20_%20Amazon%20Music%20-%20The%201975%20(youtube).mp3",
           url: "https://x.com/lulazbaee",
           favorited: false
@@ -83,7 +83,7 @@ new Vue({
         {
           name: "About You",
           artist: "Mix",
-          cover: "https://raw.githubusercontent.com/hafizmp/Music-Application/master/Assets/img/blackbear.jpeg",
+          cover: "https://raw.githubusercontent.com/fikrinizal/music/main/WhatsApp%20Image%202024-11-23%20at%2020.21.10_fde5de28.jpg",
           source: "https://raw.githubusercontent.com/fikrinizal/fikrinizalul.github.io/main/img/About%20You%20x%20Birds%20Of%20A%20Feather%20TEM-PLE%20REMIX%20-%20temple-sovnd%20(youtube).mp3",
           url: "https://x.com/lulazbaee",
           favorited: true
